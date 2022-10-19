@@ -1,0 +1,4 @@
+version=3
+opts=dversionmangle=s/~repack.*// \
+https://code.soundsoftware.ac.uk/projects/vamp-plugin-sdk/files \
+	/attachments/download/\d+/vamp-plugin-sdk-([\d.]+)\.tar\.gz

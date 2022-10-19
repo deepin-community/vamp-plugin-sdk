@@ -1,0 +1,3 @@
+usr/lib/*/vamp
+usr/bin/vamp-simple-host
+usr/bin/vamp-rdf-template-generator

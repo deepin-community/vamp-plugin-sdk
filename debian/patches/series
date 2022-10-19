@@ -1,0 +1,3 @@
+01-fix_multiarch.patch
+02-fix_pkg-config.patch
+0003-Link-with-dl.patch
